@@ -1,6 +1,6 @@
 # vanilluxe
 
-[<img src="vanilluxe.svg?sanitize=true" width=250>]()
+[<img src="vanilluxe.svg?sanitize=true" height=250>]()
 
 ### What is it?
 <details>
